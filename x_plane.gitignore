@@ -1,0 +1,9 @@
+   .venv/
+   .idea/
+   __pycache__/
+   *.pyc
+   *.zip
+   *.pdf
+   xp_llm/out/
+   xp_phase/phased/
+   xp_phase/situation/
